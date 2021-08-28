@@ -31,7 +31,7 @@
   "devDependencies": {
     "@pnpm/test-fixtures": "workspace:*",
     "@pnpm/types": "workspace:7.4.0",
-    "@types/ramda": "0.27.39",
+    "@types/ramda": "0.27.44",
     "@types/zkochan__table": "npm:@types/table@6.0.0",
     "load-json-file": "^6.2.0",
     "nock": "12.0.3",

@@ -64,7 +64,7 @@
     "@types/is-ci": "^3.0.0",
     "@types/is-windows": "^1.0.0",
     "@types/ncp": "^2.0.4",
-    "@types/ramda": "0.27.39",
+    "@types/ramda": "0.27.44",
     "@types/semver": "^7.3.4",
     "@types/which": "^2.0.0",
     "@zkochan/libnpx": "^13.1.5",

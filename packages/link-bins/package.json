@@ -48,9 +48,9 @@
   "devDependencies": {
     "@types/is-windows": "^1.0.0",
     "@types/ncp": "^2.0.4",
-    "@types/node": "^14.14.33",
+    "@types/node": "^16.7.5",
     "@types/normalize-path": "^3.0.0",
-    "@types/ramda": "0.27.39",
+    "@types/ramda": "0.27.44",
     "ncp": "^2.0.0",
     "path-exists": "^4.0.0",
     "tempy": "^1.0.0"

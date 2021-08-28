@@ -36,7 +36,7 @@
     "@pnpm/logger": "^4.0.0",
     "@pnpm/plugin-commands-installation": "workspace:6.0.15",
     "@pnpm/prepare": "workspace:0.0.26",
-    "@types/ramda": "0.27.39",
+    "@types/ramda": "0.27.44",
     "execa": "^5.0.0",
     "strip-ansi": "^6.0.0",
     "write-yaml-file": "^4.2.0"
