@@ -17,7 +17,7 @@
     "@pnpm/win-x64": "workspace:0.0.6-6.15.1"
   },
   "devDependencies": {
-    "@zkochan/pkg": "0.0.0-2",
+    "@zkochan/pkg": "0.0.0-3",
     "execa": "npm:safe-execa@^0.1.1"
   },
   "funding": "https://opencollective.com/pnpm",
